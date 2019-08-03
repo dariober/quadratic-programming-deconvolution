@@ -1,12 +1,9 @@
-
-<!-- vim-markdown-toc GFM -->
-
-<!-- vim-markdown-toc -->
+## A tutorial on quadratic programming applied to the deconvolution of mixed cell populations
 
 In a nutshell, this tutorial ([pdf](quadratic_programming_tutorial.pdf)) shows
-how to use quadratic programming, as implemented in the R functions
-[pracma::lsqlincon](https://CRAN.R-project.org/package=pracma) and
-[quadprog::solve.QP](https://CRAN.R-project.org/package=quadprog), to solve the
+how to use quadratic programming, as implemented in the R packages
+[pracma](https://CRAN.R-project.org/package=pracma) and
+[quadprog](https://CRAN.R-project.org/package=quadprog), to solve the
 problem of deconvolving a mixed cell population into individual subpopulations.
 
 [Quadratic programming](https://en.wikipedia.org/wiki/Quadratic_programming)
